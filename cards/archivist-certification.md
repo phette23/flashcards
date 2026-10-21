@@ -5,19 +5,19 @@ Q: Provenance
 A: The origin of objects, its history of change/transfer, documentation of such.
 
 Q: Records management
-A: "The systematic and administrative control of records throughout their life cycle to ensure efficiency and economy in their creation, use, handling, control, maintenance, and disposition." —SAA
+A: "The systematic and administrative control of records throughout their life cycle to ensure efficiency and economy in their creation, use, handling, control, maintenance, and disposition." —SAA.
 
-Q. OAIS
+Q: OAIS
 A: Open Archival Information Systems. Abstract standard, more a conceptual map, of terms in a open archival system with accession, preservation, and dissemination as fundamental supported activities, especially relevant to digital systems. Originally developed in the context of space data, e.g. for intergovernmental cooperation around space stations.
 
-Q. SIP
-A. Submission Information Package (OAIS). Submitted data with sufficient information about its contents and structure to add to an archive. Often includes metadata added by archivists, e.g. checksums, manifests.
+Q: SIP
+A: Submission Information Package (OAIS). Submitted data with sufficient information about its contents and structure to add to an archive. Often includes metadata added by archivists, e.g. checksums, manifests.
 
-Q. AIP
-A. Archival Information Package (OAIS). Maintained data with sufficient information to support preservation activities like format migration, data integrity (checksums), management. Typically maintained by archivists.
+Q: AIP
+A: Archival Information Package (OAIS). Maintained data with sufficient information to support preservation activities like format migration, data integrity (checksums), management. Typically maintained by archivists.
 
-Q. DIP
-A. Dissemination Information Package (OAIS). Converted AIP for public consumption, perhaps with less technical metadata but more descriptive metadata.
+Q: DIP
+A: Dissemination Information Package (OAIS). Converted AIP for public consumption, perhaps with less technical metadata but more descriptive metadata.
 
 Q: Life cycle of records
 A: Distinct phases of a record's existence, from creation to final disposition, like those of a living organism. Might include stages like: creation, receipt, preservation, use, disposition, destruction/deaccession.
