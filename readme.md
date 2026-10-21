@@ -1,6 +1,6 @@
 # Archivist Study Flashcards
 
-Cards for studying for the Certified Archivists exam. These "terms/concepts" were culled from the ACA Exam Study Guide 2025. I may have added to them. Definitions are taken from various publications but often [the SAA Dictionary](https://dictionary.archivists.org/). I didn't bother to cite my sources (sorry!).
+Cards for studying for the Certified Archivists exam. These "terms/concepts" were culled from the ACA Exam Study Guide 2025. I may have added to them. Definitions are taken from various publications but often [the SAA Dictionary](https://dictionary.archivists.org/). ~~I didn't bother to cite my sources (sorry!)~~ I am trying to cite my sources!
 
 These cards assume you're using [`hashcards`](https://github.com/eudoxia0/hashcards) for studying. See the installation instructions there. Usage:
 

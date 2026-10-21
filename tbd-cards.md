@@ -13,16 +13,10 @@ A:
 Q: Records management vs. archives
 A:
 
-Q: Appraisal
-A:
-
 Q: Macroappraisal
 A:
 
 Q: Functional analysis
-A:
-
-Q: Acquisition
 A:
 
 Q: Selection
@@ -31,16 +25,10 @@ A:
 Q: Deaccessioning
 A:
 
-Q: Accessioning
-A:
-
 Q: Documentation strategy
 A:
 
 Q: Collecting policy
-A:
-
-Q: Accessioning
 A:
 
 Q: Enduring value
@@ -55,9 +43,6 @@ A:
 Q: Description
 A:
 
-Q: Provenance
-A:
-
 Q: Respect de fonds
 A:
 
@@ -70,9 +55,6 @@ A:
 Q: Finding aids and their components
 A:
 
-Q: MPLP
-A:
-
 Q: Levels of description
 A:
 
@@ -83,9 +65,6 @@ Q: Reference interview
 A:
 
 Q: Reference
-A:
-
-Q: Digitization
 A:
 
 Q: Use permissions
@@ -131,9 +110,6 @@ Q: Preservation management
 A:
 
 Q: Digital preservation
-A:
-
-Q: OAIS reference model
 A:
 
 Q: Outreach
@@ -248,7 +224,4 @@ Q: Archival silence
 A:
 
 Q: Diversity, equity, and inclusion
-A:
-
-Q: Reparative description
 A:
