@@ -1,12 +1,6 @@
 Q: Archival standards
 A:
 
-Q: Records management
-A:
-
-Q: Life cycle of records
-A:
-
 Q: Value of archives
 A:
 
