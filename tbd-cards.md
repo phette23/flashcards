@@ -13,22 +13,10 @@ A:
 Q: Records management vs. archives
 A:
 
-Q: Macroappraisal
-A:
-
 Q: Functional analysis
 A:
 
-Q: Selection
-A:
-
-Q: Deaccessioning
-A:
-
 Q: Documentation strategy
-A:
-
-Q: Collecting policy
 A:
 
 Q: Enduring value
@@ -61,12 +49,6 @@ A:
 Q: Types of descriptive standards
 A:
 
-Q: Reference interview
-A:
-
-Q: Reference
-A:
-
 Q: Use permissions
 A:
 
@@ -77,9 +59,6 @@ Q: Public programming
 A:
 
 Q: Digital access
-A:
-
-Q: Virtual reading room
 A:
 
 Q: Access policy and procedures
@@ -119,9 +98,6 @@ Q: Advocacy
 A:
 
 Q: Activist archivist
-A:
-
-Q: Loan agreement
 A:
 
 Q: Exhibition

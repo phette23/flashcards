@@ -45,3 +45,30 @@ A: Practice seeking to address historical wrongs insinuated into metadata. Examp
 
 Q: Digitization
 A: Creating digital surrogates of physical materials, e.g. scanned images of printed pages. Often used to increase access to materials but can also be a preservation mechanism.
+
+Q: Selection
+A: Process of choosing materials to incorporate into an archive, including weighing legal rights, enduring value, collection policy, and costs of stewardship.
+
+Q: Collecting policy
+A: Policy guiding what to incorporate into an archive, including institutional or thematic foci.
+
+Q: Loan agreement
+A: Legal document giving a repository temporary control over a collection under certain terms.
+
+Q: Reference interview
+A: Conversation between an archivist and information seeker meant to refine the information need and contextualize it within an archive's collections. Aims to "help the researcher identify relevant holdings, and to ensure that research needs are met." (SAA)
+
+Q: Reference
+A: The practice of assisting patrons in their research utilizing collections. OR a citation from one work to another.
+
+Q: Reading Room
+A: Area in an archive where external patrons can view and interact with a collection. This might be set apart from the actual permanent storage area but provide space to sort through collection contents.
+
+Q: Virtual reading room
+A: Online space for interacting with archival collections within their access restrictions. For instance, a VRR might require a researcher to agree to terms of use, restrict downloading, and only provide access for a fixed amount of time.
+
+Q: Macroappraisal
+A: "an analysis of the functions of an organization to determine the relative importance of those activities and set priorities for documentation" (SAA)
+
+Q: Deaccessioning
+A: Removing items from the archive's stewardship and collections, whether by destruction or transfer to another archives.
