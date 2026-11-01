@@ -72,3 +72,18 @@ A: "an analysis of the functions of an organization to determine the relative im
 
 Q: Deaccessioning
 A: Removing items from the archive's stewardship and collections, whether by destruction or transfer to another archives.
+
+Q: Retrospective accessioning
+A: Accessioning materials previously added to the archives but not accessioned, lacking documentation (e.g. deed of gift), fully controlled, etc.
+
+Q: Replevin
+A: Action to recover property that's been wrongfully or illegally taken, e.g. public government records in an elected official's personal files.
+
+Q: Repatriation
+A: Return of cultural materials to their original people/nation, e.g. from European archive to a formerly colonized people.
+
+Q: Copyright
+A: Legal rights over created works held by their creators, including the right to reproduce, sell, distribute, and create derivative works. Copyright can be transferred, waived, or expire.
+
+Q: Fair use
+A: Exceptions to use of copyrighted materials, usually for non-profit and limit use such as quoted excerpts in research publications.

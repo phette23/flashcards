@@ -157,12 +157,6 @@ A:
 Q: Ethics
 A:
 
-Q: Copyright
-A:
-
-Q: Fair use
-A:
-
 Q: Privacy
 A:
 
@@ -173,9 +167,6 @@ Q: Rights statements
 A:
 
 Q: National Archives Act
-A:
-
-Q: Repatriation
 A:
 
 Q: Native American Graves Protection and Repatriation Act
