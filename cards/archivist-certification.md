@@ -87,3 +87,21 @@ A: Legal rights over created works held by their creators, including the right t
 
 Q: Fair use
 A: Exceptions to use of copyrighted materials, usually for non-profit and limit use such as quoted excerpts in research publications.
+
+Q: FERPA
+A: Family Educational Rights and Privacy Act. US law protecting student records. Prohibits, for instance, sharing student work and class rosters without consent. "Directory information" is exempted.
+
+Q: HIPAA
+A: Health Insurance Portability and Accountability Act. US law protecting health records. Prohibits sharing of personal health information without consent.
+
+Q: FOIA
+A: Freedom of Information Act. US government transparency law. Requires federal agencies to provide access to records within some standards (e.g. response time, exemptions for classified information and citizen privacy).
+
+Q: Decolonize
+A: "to collaborate with Indigenous peoples to implement greater Indigenous control over records, to provide a voice to those peoples through records, and to recontextualize the records and institutions created and interpreted by settler populations" —SAA
+
+Q: Native American Graves Protection and Repatriation Act
+A: 1990 federal law that provides for the return of some sacred objects to indigenous peoples by federal agencies and institutions that receive federal funding.
+
+Q: Cultural property rights
+A: "The concept that a society, especially that of Indigenous peoples, has the authority to control the use of its traditional heritage." —SAA

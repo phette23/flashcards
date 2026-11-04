@@ -100,13 +100,7 @@ A:
 Q: Activist archivist
 A:
 
-Q: Exhibition
-A:
-
 Q: Teaching with primary sources
-A:
-
-Q: Fundraising
 A:
 
 Q: Crowdsourcing
@@ -127,9 +121,6 @@ A:
 Q: Archival policies and procedures
 A:
 
-Q: Grant
-A:
-
 Q: Mission and vision statements
 A:
 
@@ -137,9 +128,6 @@ Q: Donor relations
 A:
 
 Q: Assessment
-A:
-
-Q: Solo archivist
 A:
 
 Q: Interpersonal communications
@@ -154,22 +142,10 @@ A:
 Q: Professional core values
 A:
 
-Q: Ethics
-A:
-
-Q: Privacy
-A:
-
-Q: U.S. laws governing archives: e.g., FERPA, HIPAA, FOIA
-A:
-
 Q: Rights statements
 A:
 
 Q: National Archives Act
-A:
-
-Q: Native American Graves Protection and Repatriation Act
 A:
 
 Q: Community archives
@@ -179,12 +155,6 @@ Q: Postcolonial cultural competency
 A:
 
 Q: Radical empathy
-A:
-
-Q: Cultural property rights
-A:
-
-Q: Decolonize
 A:
 
 Q: Archival silence
